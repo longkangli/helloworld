@@ -1,2 +1,2 @@
 # helloworld
-This is a test by Longkang.
+This is a test by Longkang Li.
